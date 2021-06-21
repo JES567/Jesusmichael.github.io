@@ -1,0 +1,42 @@
+body .caja1 {
+  background-color: blue;
+}
+.contenedor {
+  background-color: white;
+}
+/* Agregamos relleno a la caja */
+.caja1 {
+  border-style: solid;
+  border-width: 5px;
+  border-color: yellowgreen;
+  padding: 30px;
+}
+/* Agregamos un estilo para la caja 2 */
+.caja2 {
+  border-style: solid;
+  border-width: 5px;
+  border-color: red;
+  padding: 30px;
+}
+
+p {
+  border-style: solid;
+  border-width: 5px;
+  border-color: orange;
+  padding: 10px;
+}
+.caja3 {
+  border-style: solid;
+  border-width: 5px;
+  border-color: blue;
+  padding: 30px;
+}
+.parrafoformato {
+  border-style: solid;
+  border-width: 5px;
+  border-color: red;
+  padding-top: 5px;
+  padding-right: 20px;
+  padding-bottom: 70px;
+  padding-left: 45px;
+}
